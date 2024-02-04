@@ -1,0 +1,115 @@
+.menu {display: flex;
+    background-color: #cbc6c1;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 100px;
+    justify-content: flex-end;
+    margin-bottom: 25px;
+    padding-right: 50px;}
+.active {background-color:#3d0b0b3b;}
+header li  {text-decoration: none;
+display: flex;}
+
+
+header li a {color:#423d3a }
+nav a {text-decoration: none;
+ display: block;}
+ 
+#logo { width: 300px;
+   height: auto;
+   padding-left: 10px;
+padding-top: 10;}
+   
+
+.footer {background-color: #cbc6c1;
+display: flex;
+align-items: flex-end;}
+.icons { display: flex;
+justify-content: space-around;
+gap: 190px;
+padding-left:150px;
+padding-right: 100px;}
+
+#g {width: 35px;
+height: auto;}   
+#p {width: 35px;
+height: auto;}
+#f  {width: 35px;
+height: auto;
+padding-top: 15px;}        
+#i {width: 55px;
+height: auto;}
+
+.footer p {font-family: Arial, Helvetica, sans-serif}
+
+
+
+#portrait {width: 350px;
+ height: auto;
+ padding-left: 10px;
+ }
+
+#abme {color: #5d5a58;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 35px;
+   padding-left: 650px;
+   padding-right: 650px;
+   padding-bottom: 20px;}
+
+
+ 
+
+#intro {
+     color: #6e6762;
+     font-size:40px;
+     padding-left: 500px;
+     padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif; }
+
+.section1 {display: flex;}
+
+#me {padding-left: 110px;
+    padding-top: 50;
+    padding-right: 500px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1b1a1aba;}
+
+#descriptions {padding-left: 50px;
+           color:#1b1a1aba;}
+
+
+#ttxt {font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-style: normal;
+      padding-left: 5px;}
+
+
+.Hphoto{display: flex;
+   gap: 100px;
+   padding-left: 10px;}
+
+
+#taboo {width: 350px;
+    height: 300px;}       
+
+#meetus {width: 350px;
+height: 250px}        
+
+#touch {width: 450px;
+    height: 300px;}
+
+ #fruit {width:400px;
+height: 300px}   
+ 
+
+form div { margin-bottom: 20px;}   
+form {padding-left: 20px;}
+
+#contactinfo  {padding-left: 550px;
+           background-color: #cbc6c1;
+        text-decoration: none; }
+
+#desc  { color: #3a3634;
+    background-color: #cbc6c1;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
